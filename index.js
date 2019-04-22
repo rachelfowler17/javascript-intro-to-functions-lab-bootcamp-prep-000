@@ -17,4 +17,4 @@ function logWhisper(string) {console.log ("logWhisper").toUpperCase() }
 
  function sayHiToGrandma(string) {console.log ("I can't hear you").toLowerCase() }
  
- function say
+ function sayHiToGrandma(string) {console.log ("YES INDEED").toUpperCase() }
