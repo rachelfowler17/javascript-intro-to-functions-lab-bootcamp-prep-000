@@ -15,4 +15,4 @@ function logShout(string) { console.log("logShout").toUpperCase() }
 
 function logWhisper(string) {console.log ("logWhisper").toUpperCase() } 
 
-function sayHiToGrandma() {console.log ("Hi, Grandma!") Expect ("I can't hear you!") if 'string is lowercase'}
+function sayHiToGrandma() {console.log ("Hi, Grandma!") Expect ("I can't hear you!") if ('string is lowercase') 
